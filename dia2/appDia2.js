@@ -1,3 +1,5 @@
+
+
 // función para leer el valor de un elemento a través de id del html
 function leerElementoPorId (elemento){
     let elementoHTML = document.getElementById(elemento);
